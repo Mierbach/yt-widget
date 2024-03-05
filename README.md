@@ -4,11 +4,17 @@ YouTubeViewer is an innovative PyQt5-based application designed to offer an enha
 
 Key Features:
 Frameless Design: Free viewing experience.
+
 Always on Top: Ensures uninterrupted viewing by keeping the window atop other applications.
+
 Custom User-Agent: Accesses YouTube.com/tv for a TV-like interface.
+
 Direct URL Navigation: Allows users to directly navigate to YouTube videos.
+
 Casting Capability: Enables users to cast videos directly from compatible devices.
+
 Flexible Window Management: Supports window resizing and moving for optimal placement.
+
 Auto-Hiding Controls: Minimize, close, and cast buttons hide automatically for a cleaner look.
 
 
